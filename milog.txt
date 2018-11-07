@@ -1,0 +1,109 @@
+commit 9f48d95ffc61166a17afab06be3a9979a2148fd4
+Merge: ced765c a8179a4
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Nov 7 11:31:19 2018 -0600
+
+    Resolvi los conflictos
+
+commit ced765c7cbd04f5290679682c614e114fcf66b2a
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Nov 7 11:25:41 2018 -0600
+
+    actualizacion local
+
+commit a8179a4cf81104481e9dc7918c33128ab2588bc5
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:56 2018 -0600
+
+    Update tarea10.txt
+    
+    modificación remota de tarea10
+
+commit 1c42a0580c6a56336f8114ed6939374475f6dcd9
+Merge: 4bbffc4 7e8bd02
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Nov 7 11:16:14 2018 -0600
+
+    Merge branch 'master' of https://github.com/A01025761/practicas1022
+    
+    ESTE MERGE ES PARA COMBINAR TAREA 10 LOCAL Y TAREA 11 REMOTA
+
+commit 7e8bd02f83b84c656bf336a2947156123902694d
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:51 2018 -0600
+
+    Create tarea11.txt
+    
+    subi mi tarea en e repositorio remoto
+
+commit 4bbffc419296ce2a4c0f02e3d3d8cc5263d1c322
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Nov 7 11:11:38 2018 -0600
+
+    tarea local
+
+commit 143e11d870828cde04da298c19e587541eca6c3e
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Oct 24 13:13:08 2018 -0500
+
+    Subo los archivos encryptados
+
+commit a02189f15b84f2fd39012d2d9264bf5ee18d853e
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 12:51:28 2018 -0500
+
+    Add files via upload
+
+commit b754450f405bf430258c7e566ec4d63fcb88e7ac
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 12:46:33 2018 -0500
+
+    Add files via upload
+    
+    ejercicio numero natural perfecto en formato java
+
+commit 09aaa97180726687d532e9f02db49b59afd5850d
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 12:21:20 2018 -0500
+
+    Add files via upload
+    
+    Se subio ejercicio de año bisiesto en formato JAVA
+
+commit 750b6f71ee189ae00e560b8026416e55fe9a6a94
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 12:10:47 2018 -0500
+
+    Add files via upload
+    
+    Se subieron archivos:
+    Facebook
+    Microsoft
+    Deloitte
+    Drink IQ
+    Cisco
+    Maquinas virtuales
+
+commit 33904159bd2a6fc56d201d2218376dce5cf3a81f
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 12:01:30 2018 -0500
+
+    Delete A01025761myPrivateKey.gpg
+
+commit 38ea830dcdc7891a95385089c9ccda4c6e48cd33
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Oct 24 11:55:18 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit c31c2fad363850a62bbfe98ab5b0a7fd5e03e63a
+Author: A01025761 <A01025761@itesm.mx>
+Date:   Wed Oct 24 11:36:23 2018 -0500
+
+    sdslkd
+
+commit ef5e182ec1248827e0c7a991683e57281f15bd50
+Author: A01025761 <42215144+A01025761@users.noreply.github.com>
+Date:   Wed Oct 24 11:03:11 2018 -0500
+
+    Initial commit
